@@ -8,25 +8,36 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgb(190,232,223);
+}
 
-
-a{
+a {
   display: inline-block;
   text-decoration: none;
 }
 
-ul , li{
+ul, li {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-img{
+img {
   max-width: 290px;
-  max-height: 375px;
+  max-height: 345px;
   height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-.ui.card{
-  min-height: 530px;
+.ui {
+  &.card {
+    margin-bottom: 15px !important;
+    margin-top: 25px !important;
+  }
 }
