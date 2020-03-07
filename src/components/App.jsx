@@ -1,9 +1,9 @@
 import React from 'react';
 import {Card, Container} from 'semantic-ui-react'
 import axios from "axios";
-import Menu from './Menu'
-import Book from './BookCard'
+import Book from '../containers/BookCard'
 import Filter from '../containers/Filter'
+import Menu from '../containers/Menu'
 
 class App extends React.Component {
   componentWillMount() {
@@ -17,7 +17,7 @@ class App extends React.Component {
     const {books, isReady} = this.props;
     return (
       <Container>
-        <Menu/>
+        <Menu />
         <Filter/>
         <Card.Group itemsPerRow={4}>
           {!isReady

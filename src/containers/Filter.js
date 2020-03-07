@@ -3,9 +3,11 @@ import Filter from "../components/Filter";
 import {setFilter, setSearchQuery} from "../actions/filter";
 
 
-const mapStateToProps = ({books}) => ({
-  filterBy: books.filterBy,
-  searchQuery: books.searchQuery,
+const mapStateToProps = ({filter}) => ({
+  filterBy: filter.filterBy,
 });
 
-export default connect(mapStateToProps, {setFilter, setSearchQuery}) (Filter);
+export default connect
+(mapStateToProps,
+  {setFilter, setSearchQuery})
+(Filter);
