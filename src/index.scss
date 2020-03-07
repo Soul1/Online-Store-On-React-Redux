@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+
+
+a{
+  display: inline-block;
+  text-decoration: none;
+}
+
+ul , li{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+img{
+  max-width: 290px;
+  max-height: 375px;
+  height: 100%;
+}
+
+.ui.card{
+  min-height: 530px;
+}
