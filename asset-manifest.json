@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/shoppingCardOnReactRedux/static/css/main.cc53fc0b.chunk.css",
+    "main.js": "/shoppingCardOnReactRedux/static/js/main.dc67dc67.chunk.js",
+    "main.js.map": "/shoppingCardOnReactRedux/static/js/main.dc67dc67.chunk.js.map",
+    "runtime-main.js": "/shoppingCardOnReactRedux/static/js/runtime-main.471234c8.js",
+    "runtime-main.js.map": "/shoppingCardOnReactRedux/static/js/runtime-main.471234c8.js.map",
+    "static/css/2.aec39f5d.chunk.css": "/shoppingCardOnReactRedux/static/css/2.aec39f5d.chunk.css",
+    "static/js/2.257770e1.chunk.js": "/shoppingCardOnReactRedux/static/js/2.257770e1.chunk.js",
+    "static/js/2.257770e1.chunk.js.map": "/shoppingCardOnReactRedux/static/js/2.257770e1.chunk.js.map",
+    "index.html": "/shoppingCardOnReactRedux/index.html",
+    "precache-manifest.8a6997f3c5c947f3c356d5b582901a84.js": "/shoppingCardOnReactRedux/precache-manifest.8a6997f3c5c947f3c356d5b582901a84.js",
+    "service-worker.js": "/shoppingCardOnReactRedux/service-worker.js",
+    "static/css/2.aec39f5d.chunk.css.map": "/shoppingCardOnReactRedux/static/css/2.aec39f5d.chunk.css.map",
+    "static/css/main.cc53fc0b.chunk.css.map": "/shoppingCardOnReactRedux/static/css/main.cc53fc0b.chunk.css.map",
+    "static/js/2.257770e1.chunk.js.LICENSE.txt": "/shoppingCardOnReactRedux/static/js/2.257770e1.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/shoppingCardOnReactRedux/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.471234c8.js",
+    "static/css/2.aec39f5d.chunk.css",
+    "static/js/2.257770e1.chunk.js",
+    "static/css/main.cc53fc0b.chunk.css",
+    "static/js/main.dc67dc67.chunk.js"
+  ]
+}
