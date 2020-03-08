@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2db84a198d7a3315c42bddfc3a911bd7",
+    "revision": "acd8e9e9043f970b54700868af4995ed",
     "url": "/shoppingCardOnReactRedux/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppingCardOnReactRedux/static/css/2.aec39f5d.chunk.css"
   },
   {
-    "revision": "aceccde711d69b3485c8",
+    "revision": "5d0496d915dfeed80316",
     "url": "/shoppingCardOnReactRedux/static/css/main.cc53fc0b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shoppingCardOnReactRedux/static/js/2.257770e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aceccde711d69b3485c8",
-    "url": "/shoppingCardOnReactRedux/static/js/main.dc67dc67.chunk.js"
+    "revision": "5d0496d915dfeed80316",
+    "url": "/shoppingCardOnReactRedux/static/js/main.5497f141.chunk.js"
   },
   {
     "revision": "421c9fa86638c1f5efc6",
